@@ -1,0 +1,3 @@
+filterpy scipy
+opencv-python
+numpy
