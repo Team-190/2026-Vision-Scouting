@@ -1,4 +1,7 @@
-filterpy scipy
+filterpy
+scipy
 opencv-python
 numpy
 ultralytics
+pupil-apriltags
+opencv-python
