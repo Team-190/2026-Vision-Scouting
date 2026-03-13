@@ -1,3 +1,4 @@
 filterpy scipy
 opencv-python
 numpy
+ultralytics
